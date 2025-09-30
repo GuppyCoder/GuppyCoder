@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 😕 I'm looking for help with building my skills as a computer scientist and getting a job
 - 💭 Ask me about my faith and or anything coding related (please, I have nobody to talk to about this stuff)
 - 😄 Pronouns: He/Him
-- ⚡ Vulnerability (for taking the time to look at my profile) : I have big dreams, like having a lucrative CS career, and sometimes I don't feel I have the skill or discipline to accomplish them
+- ⚡ Fun Fact: I wanted to be an astronaut when I grew up. Im not 28 and still not an astronaut :/ Oopsie.

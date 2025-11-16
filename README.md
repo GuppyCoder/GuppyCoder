@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently working on my Master's in Computer Science at the University of Texas at Austin
-- 🌱 I'm currently learning Computer Science fundamentals, Machine Learning, SwiftUI, Structure and Implementation of Modern Programming Languages, College Algebra, Planning Search and Reasoning Under Uncertainty 😃
-- 😕 I'm looking for help with building my skills as a computer scientist and getting a job
-- 💭 Ask me about my faith and or anything coding related (please, I have nobody to talk to about this stuff)
+- 🌱 I'm currently learning Machine Learning, SwiftUI, Structure and Implementation of Modern Programming Languages, Planning Search and Reasoning Under Uncertainty 😃
+- 💭 Ask me about my faith and or anything coding related 
 - 😄 Pronouns: He/Him
-- ⚡ Fun Fact: I wanted to be an astronaut when I grew up. Im now 28 and still not an astronaut 😐 Oopsie.
+

@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on my Master's in Computer Science at the University of Texas at Austin
 - 🌱 I'm currently learning Machine Learning, SwiftUI, Structure and Implementation of Modern Programming Languages, Planning Search and Reasoning Under Uncertainty 😃
-- 💭 Ask me about my faith and or anything coding related 
+- 💭 Ask me about my Catholic faith and or anything coding related 
 - 😄 Pronouns: He/Him
 
